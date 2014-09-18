@@ -44,6 +44,10 @@ Using the summarise_each() function the mean for all the remaining columns is ca
 
 Finally the summarisedMeanStdDeviationDataFrame dataframe is stored in the tidy_data.txt file using the write.table() function.
 
+## Important information to download and view the resulting data set
+
+The tidy data set must be downloaded and imported into Excel using the Space delimiter. If the provided hyperlink is clicked directly the data set will open as a web page which does not look tidy at all. To download the file right click on it and use the Save Linked File As option. If you try to open the downloaded file using text edit or notepad the data set will not look tidy as the Space delimiter is not used during the formatting of the text file.
+
 
 
  
